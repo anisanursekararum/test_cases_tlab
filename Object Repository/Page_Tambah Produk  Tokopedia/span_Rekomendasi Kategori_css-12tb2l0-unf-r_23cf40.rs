@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rekomendasi Kategori_css-12tb2l0-unf-r_23cf40</name>
+   <tag></tag>
+   <elementGuidId>5e14cbe4-db1f-462e-8bd2-1f0ccef25d97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='infoSection']/div[2]/div[2]/div/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.css-12tb2l0-unf-radio__area.e12o1eyi1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-12tb2l0-unf-radio__area e12o1eyi1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;infoSection&quot;)/div[@class=&quot;css-1rlxqts&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;css-inbky3&quot;]/div[@class=&quot;css-1bh52ki e12o1eyi0&quot;]/label[@class=&quot;css-14vgcl7-unf-radio e12o1eyi3&quot;]/span[@class=&quot;css-12tb2l0-unf-radio__area e12o1eyi1&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='infoSection']/div[2]/div[2]/div/div/label/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+   </webElementXpaths>
+</WebElementEntity>

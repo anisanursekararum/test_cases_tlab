@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Atur</name>
+   <tag></tag>
+   <elementGuidId>021b2b69-4d41-4301-a6c9-251511969c5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='merchant-root']/div/div[2]/div/section/div[3]/div[2]/div[2]/div/div[6]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1irnkqd-unf-chip.e181j6nn3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>ddlMPSettingProduct</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1irnkqd-unf-chip e181j6nn3</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Atur</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;merchant-root&quot;)/div[@class=&quot;css-ethtfe is-open&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;css-qodsfp&quot;]/section[@class=&quot;css-r8b4d8-unf-card eyk31ek0&quot;]/div[@class=&quot;css-1gbu4dk&quot;]/div[2]/div[@class=&quot;css-x2m2nt&quot;]/div[@class=&quot;css-eniub8 e19by5ca0&quot;]/div[@class=&quot;css-awx2fp e19by5ca1&quot;]/div[@class=&quot;css-1zp96t&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-1irnkqd-unf-chip e181j6nn3&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='merchant-root']/div/div[2]/div/section/div[3]/div[2]/div[2]/div/div[6]/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[1]/following::div[13]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah pesanan selesai'])[1]/following::div[19]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selai Nutella Test'])[1]/preceding::div[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Atur']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

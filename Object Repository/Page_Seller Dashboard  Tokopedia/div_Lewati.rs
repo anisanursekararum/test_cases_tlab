@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Lewati</name>
+   <tag></tag>
+   <elementGuidId>f05f9559-aa43-4d72-bda6-73bb8567034f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Kini semua navigasi utama ada dibagian kiri dan atas'])[1]/following::div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.unf-coachmark__skip-button.css-1cg3zyn.ety06v16</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>unf-coachmark__skip-button css-1cg3zyn ety06v16</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>btnHomeCoachmarkSkip</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lewati</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;css-1kuy7z7&quot;]/body[@class=&quot;seller-dashboard-home&quot;]/div[5]/div[@class=&quot;css-1uqion3-unf-coachmark ety06v11&quot;]/section[@class=&quot;css-1jpw3bb-unf-card eyk31ek0&quot;]/div[@class=&quot;unf-coachmark__content-wrapper css-8atqhb ety06v12&quot;]/div[@class=&quot;unf-coachmark__footer css-1i5hdkt ety06v14&quot;]/div[@class=&quot;unf-coachmark__action-wrapper css-1xhj18k ety06v13&quot;]/div[@class=&quot;unf-coachmark__skip-button css-1cg3zyn ety06v16&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kini semua navigasi utama ada dibagian kiri dan atas'])[1]/following::div[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beri saran'])[1]/following::div[13]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lewati']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[2]/div/div[2]/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel'])[1]/following::div[9]</value>
+   </webElementXpaths>
+</WebElementEntity>
